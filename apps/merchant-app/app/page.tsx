@@ -7,7 +7,7 @@ export default function () {
   return (
     <div>
       hi there {balance}
-      <p>hi there</p>
+      <h1>hi from second branch</h1>
     </div>
   );
 }
